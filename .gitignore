@@ -12,3 +12,25 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+
+
+
+# dependencies
+/node_modules
+/studio/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+/.next/
+/out/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
